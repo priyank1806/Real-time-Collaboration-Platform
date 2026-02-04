@@ -1,0 +1,9 @@
+{
+  "name": "Realtime Collaboration Platform",
+  "short_name": "CollabPlatform",
+  "description": "A real-time collaboration platform for shared documents",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
